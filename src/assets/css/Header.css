@@ -39,6 +39,16 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+.header__optionBasket{
+    display: flex;
+    align-items: center;
+   
+}
+.header__optionCount{
+   margin-left:10px ;
+   margin-right:10px ;
+   
+}
 .header__link{
     color: white;
     text-decoration: none;;
